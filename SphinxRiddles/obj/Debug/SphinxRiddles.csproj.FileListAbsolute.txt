@@ -1,0 +1,6 @@
+c:\users\emily\documents\visual studio 2017\Projects\SphinxRiddles\SphinxRiddles\bin\Debug\SphinxRiddles.exe.config
+c:\users\emily\documents\visual studio 2017\Projects\SphinxRiddles\SphinxRiddles\bin\Debug\SphinxRiddles.exe
+c:\users\emily\documents\visual studio 2017\Projects\SphinxRiddles\SphinxRiddles\bin\Debug\SphinxRiddles.pdb
+c:\users\emily\documents\visual studio 2017\Projects\SphinxRiddles\SphinxRiddles\obj\Debug\SphinxRiddles.csprojResolveAssemblyReference.cache
+c:\users\emily\documents\visual studio 2017\Projects\SphinxRiddles\SphinxRiddles\obj\Debug\SphinxRiddles.exe
+c:\users\emily\documents\visual studio 2017\Projects\SphinxRiddles\SphinxRiddles\obj\Debug\SphinxRiddles.pdb
