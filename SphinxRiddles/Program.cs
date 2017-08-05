@@ -13,6 +13,8 @@ namespace SphinxRiddles
 
         static void Main(string[] args)
         {
+            Console.BackgroundColor = ConsoleColor.DarkYellow;
+            Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.WriteLine("Greetings, traveler.");
             System.Threading.Thread.Sleep(1500);
             Console.WriteLine("I am a great sphinx, and I challenge you to a game of wits.");
